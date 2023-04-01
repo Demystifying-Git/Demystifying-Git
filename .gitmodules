@@ -1,0 +1,3 @@
+[submodule "interactive-rebase"]
+	path = interactive-rebase
+	url = git@github.com:Git-Demistyfied/interactive-rebase.git
