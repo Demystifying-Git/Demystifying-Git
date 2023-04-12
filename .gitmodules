@@ -1,3 +1,6 @@
 [submodule "interactive-rebase"]
 	path = interactive-rebase
 	url = git@github.com:Git-Demistyfied/interactive-rebase.git
+[submodule "bisect"]
+	path = bisect
+	url = git@github.com:Git-Demistyfied/bisect.git
