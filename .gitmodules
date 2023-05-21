@@ -1,0 +1,15 @@
+[submodule "interactive-rebase"]
+	path = interactive-rebase
+	url = https://github.com/Git-Demistyfied/interactive-rebase.git
+[submodule "bisect"]
+	path = bisect
+	url = https://github.com/Git-Demistyfied/bisect.git
+[submodule "merge"]
+	path = merge
+	url = https://github.com/Git-Demistyfied/merge.git
+[submodule "merge-conflict"]
+	path = merge-conflict
+	url = https://github.com/Git-Demistyfied/merge-conflicts.git
+[submodule "hooks"]
+	path = hooks
+	url = https://github.com/Git-Demistyfied/hooks.git
